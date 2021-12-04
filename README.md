@@ -1,2 +1,2 @@
 # Passport-dataset
-More than 1 lakh entries of passports
+More than 100k entries of passports
